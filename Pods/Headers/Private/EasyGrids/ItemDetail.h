@@ -1,0 +1,1 @@
+../../../EasyGrids/EasyGrids/ItemDetail.h
