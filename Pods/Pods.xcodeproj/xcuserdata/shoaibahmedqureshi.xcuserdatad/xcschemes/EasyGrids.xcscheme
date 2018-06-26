@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '49E16578DF177E8ADB5ED7E303BE6E8B'
+               BlueprintIdentifier = '4E5CD82BBEC7C7ADFFEEA76EA98B3D4D'
                BlueprintName = 'EasyGrids'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libEasyGrids.a'>

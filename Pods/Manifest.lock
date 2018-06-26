@@ -2,23 +2,23 @@ PODS:
   - EasyGrids (1.0.0)
 
 DEPENDENCIES:
-  - EasyGrids (from `https://github.com/shoaibahmedqureshi/EasyGrids.git`, branch `master`, tag `1.0.1`)
+  - EasyGrids (from `https://github.com/shoaibahmedqureshi/EasyGrids.git`, branch `master`, tag `1.0.4`)
 
 EXTERNAL SOURCES:
   EasyGrids:
     :branch: master
     :git: https://github.com/shoaibahmedqureshi/EasyGrids.git
-    :tag: 1.0.1
+    :tag: 1.0.4
 
 CHECKOUT OPTIONS:
   EasyGrids:
-    :commit: 68cccc6283177aa6876d7e49aae33e8336bedcb3
+    :commit: ecfd42ec545ed2de0b7061cd4def1885aa82e952
     :git: https://github.com/shoaibahmedqureshi/EasyGrids.git
-    :tag: 1.0.1
+    :tag: 1.0.4
 
 SPEC CHECKSUMS:
-  EasyGrids: 3b8c591a431a1210130281ada40c54c20b6c7395
+  EasyGrids: 5628a87ce98ec594ceaefd25870607cc448f3581
 
-PODFILE CHECKSUM: dc7bfc105f8c3c51440a93a9256120511d969b05
+PODFILE CHECKSUM: cb7b5db510b328fbd9ac69abf221571bbd7eba94
 
 COCOAPODS: 1.3.1

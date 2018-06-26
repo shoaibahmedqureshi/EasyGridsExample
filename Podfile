@@ -4,8 +4,6 @@ platform :ios, '10.0'
 
 
 target 'EasyGridExample' do
-   pod "EasyGrids",:git => "https://github.com/shoaibahmedqureshi/EasyGrids.git",:branch => "master",:tag => "1.0.1"
-
-
+   pod "EasyGrids",:git => "https://github.com/shoaibahmedqureshi/EasyGrids.git",:branch => "master",:tag => "1.0.4"
 
 end
