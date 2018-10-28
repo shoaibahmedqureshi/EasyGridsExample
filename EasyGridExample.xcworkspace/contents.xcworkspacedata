@@ -5,6 +5,9 @@
       location = "group:EasyGridExample.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:EasyGridsCarthageDemo/EasyGridsCarthageDemo.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
